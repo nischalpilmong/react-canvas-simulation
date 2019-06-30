@@ -1,0 +1,23 @@
+.Dashboard ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 24px;
+}
+
+.Dashboard li {
+  display: inline-block;
+  margin: 20px;
+}
+
+.Dashboard a {
+  text-decoration: none;
+  color: white;
+}
+
+.Dashboard a:hover,
+.Dashboard a:active {
+  color: #59fa18;
+}

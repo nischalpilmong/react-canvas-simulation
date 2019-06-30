@@ -1,0 +1,36 @@
+
+
+.multi-line-canvas {
+  border: 1px solid black;
+  /* center align */
+  display: block;
+   width: 1400px;
+  /* width: 1400px; */
+  height: 600px;
+  margin: 0 auto;
+  background-color: #53a006;
+}
+
+.demo {
+  font-size: 450%;
+}
+
+
+.Heading {
+  font-weight: bold;
+  font-size: 150%;
+  text-transform: uppercase;
+  color: white;
+}
+
+.UL li
+ {
+  display: inline-block;
+  margin-right: 20px;
+}
+.UL {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}

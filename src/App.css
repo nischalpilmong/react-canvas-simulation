@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #2a518e;
 }
 
 .App-logo {
@@ -17,6 +18,15 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+
+.Heading {
+  font-weight: bold;
+  font-size: 150%;
+  text-transform: uppercase;
+  color: Black;
+  text-align: center;
+  text-decoration: underline;
 }
 
 .App-link {
